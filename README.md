@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Prateek181092
-- 👀 I’m interested in Web development , java , python , blender , unity ,angular.js, php , react.js
+- 👀 I’m interested in Web development , java , python , blender , unity ,angular.js, php , react.js , C++ , C# ,PERL etc.
 - 🌱 I’m currently learning react.js , angular.js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
